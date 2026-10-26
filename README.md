@@ -56,12 +56,22 @@ SQL queries and relational databases, and Python client–server video streaming
 
 ## What I work with
 
+**Languages & databases**
+
 <p>
-  <img src="assets/skills/python.svg" alt="Python" height="36">
-  <img src="assets/skills/cpp.svg" alt="C++" height="36">
-  <img src="assets/skills/databases.svg" alt="Databases" height="36">
-  <img src="assets/skills/ml.svg" alt="Machine Learning" height="36">
-  <img src="assets/skills/analysis.svg" alt="Data Analysis" height="36">
+  <img src="assets/skills/python.svg" alt="Python" title="Python" width="56" height="56">&nbsp;
+  <img src="assets/skills/cpp.svg" alt="C++" title="C++" width="56" height="56">&nbsp;
+  <img src="assets/skills/sqlserver.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="56" height="56">
+</p>
+
+**Data science tools**
+
+<p>
+  <img src="assets/skills/numpy.svg" alt="NumPy" title="NumPy" width="56" height="56">&nbsp;
+  <img src="assets/skills/pandas.svg" alt="pandas" title="pandas" width="56" height="56">&nbsp;
+  <img src="assets/skills/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="56" height="56">&nbsp;
+  <img src="assets/skills/scikitlearn.svg" alt="scikit-learn" title="scikit-learn — practice in progress" width="56" height="56">&nbsp;
+  <img src="assets/skills/jupyter.svg" alt="Jupyter" title="Jupyter" width="56" height="56">
 </p>
 
 | Area | Tools & topics in my coursework |
@@ -81,6 +91,6 @@ SQL queries and relational databases, and Python client–server video streaming
 ## Let's connect
 
 <p>
-  <a href="mailto:long0889495767@gmail.com"><img src="assets/contact/email.svg" alt="Email Long at long0889495767@gmail.com" height="40"></a>
-  <a href="https://www.linkedin.com/in/nguyen-long-395865391/"><img src="assets/contact/linkedin.svg" alt="Connect with Long on LinkedIn" height="40"></a>
+  <a href="mailto:long0889495767@gmail.com"><img src="assets/contact/email.svg" alt="Email Long at long0889495767@gmail.com" title="Email Long" height="36"></a>
+  <a href="https://www.linkedin.com/in/nguyen-long-395865391/"><img src="assets/contact/linkedin.svg" alt="Connect with Long on LinkedIn" title="LinkedIn" height="36"></a>
 </p>
