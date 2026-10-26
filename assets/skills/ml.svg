@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="36" viewBox="0 0 184 36" role="img" aria-label="Machine Learning">
+<rect x=".5" y=".5" width="183" height="35" rx="8" fill="#19283a" stroke="#40536b"/>
+<g transform="translate(11 8.0) scale(.83)" fill="none" stroke="#b8d4ed" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="3"/><circle cx="5" cy="18" r="3"/><circle cx="19" cy="18" r="3"/><path d="m10 8-4 7m8-7 4 7M8 18h8"/></g>
+<text x="40" y="23.0" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="500" fill="#eef3fb">Machine Learning</text>
+</svg>
