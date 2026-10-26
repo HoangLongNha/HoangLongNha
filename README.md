@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workspace.png">
-  <img src="assets/workspace.gif" alt="Nguyễn Hữu Hoàng Long — Data Science and Machine Learning. An evening study desk overlooking a rainy city, with a data notebook, warm lamplight and coffee." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner.png">
+  <img src="assets/profile-banner.gif" alt="Animated pixel-art winter café in pink and teal, with falling snow, a snowman and a cat resting by the entrance." width="100%">
 </picture>
 
 # Hi, I'm Long.
